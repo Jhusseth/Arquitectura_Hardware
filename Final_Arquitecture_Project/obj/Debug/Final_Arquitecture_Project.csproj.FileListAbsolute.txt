@@ -1,0 +1,9 @@
+D:\2020-2\Arquitectura Hardware\Proyecto_Final\Final_Arquitecture_Project\bin\Debug\Final_Arquitecture_Project.exe.config
+D:\2020-2\Arquitectura Hardware\Proyecto_Final\Final_Arquitecture_Project\bin\Debug\Final_Arquitecture_Project.exe
+D:\2020-2\Arquitectura Hardware\Proyecto_Final\Final_Arquitecture_Project\bin\Debug\Final_Arquitecture_Project.pdb
+D:\2020-2\Arquitectura Hardware\Proyecto_Final\Final_Arquitecture_Project\bin\Debug\System.Drawing.Common.dll
+D:\2020-2\Arquitectura Hardware\Proyecto_Final\Final_Arquitecture_Project\obj\Debug\Final_Arquitecture_Project.csproj.CoreCompileInputs.cache
+D:\2020-2\Arquitectura Hardware\Proyecto_Final\Final_Arquitecture_Project\obj\Debug\Final_Arquitecture_Project.csproj.CopyComplete
+D:\2020-2\Arquitectura Hardware\Proyecto_Final\Final_Arquitecture_Project\obj\Debug\Final_Arquitecture_Project.exe
+D:\2020-2\Arquitectura Hardware\Proyecto_Final\Final_Arquitecture_Project\obj\Debug\Final_Arquitecture_Project.pdb
+D:\2020-2\Arquitectura Hardware\Proyecto_Final\Final_Arquitecture_Project\obj\Debug\Final_Arquitecture_Project.csprojAssemblyReference.cache
